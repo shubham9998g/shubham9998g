@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubham9998g
+- 👋 Hi, I’m Shubham
 - 👀 I’m interested in Web Development, Machine Learning.
 - 🌱 I’m currently persuing B.Tech in Computer Engg. from SCET, Surat
 <!---
